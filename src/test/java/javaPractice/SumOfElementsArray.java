@@ -16,6 +16,7 @@ public class SumOfElementsArray {
 		}
 		System.out.println(sum);
 		
+		
 	}
 
 }

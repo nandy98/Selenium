@@ -20,9 +20,10 @@ public class FindMaxMinInArray {
 			if(a[i]<min) {
 				min=a[i];
 			}
+			System.out.println(min);
 			
 		}
-		System.out.println(min);
+		
 
 	}
 

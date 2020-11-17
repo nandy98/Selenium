@@ -10,7 +10,7 @@ public class BubbleSort {
 		*/
 		int arr[]= {1,0,78,6,6,2,6,0};
 		//int arr[]={0,1,2,3,4,5,6,7,8,9,3,4,5,6,4,43,2,7,8,89};
-		String a = Arrays.toString(arr);
+	//	String a = Arrays.toString(arr);
 		
 		int n=arr.length;
 		
